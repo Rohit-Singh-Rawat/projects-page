@@ -22,4 +22,4 @@ npm run dev
 3. Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 ## 🌐 Live URL
-*[Insert your hosted Vercel/Netlify URL here]*
+[https://projects-page-delta.vercel.app/](https://projects-page-delta.vercel.app/)
